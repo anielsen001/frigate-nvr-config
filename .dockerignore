@@ -1,0 +1,5 @@
+# ignore all
+*
+
+# don't ignore
+!Dockerfile
