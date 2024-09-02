@@ -2,6 +2,16 @@
 title: "Frigate NVR"
 ---
 
-This is a Quarto website.
+## Pre configuration
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- setup storage that will map into docker container
+- install coral.ai TPU
+
+## Installation
+
+using Docker
+
+## References
+
+- [Frigate NVR GitHub](https://github.com/blakeblackshear/frigate)
+- [Frigate NVR installation docs](https://docs.frigate.video/frigate/installation)
